@@ -29,8 +29,8 @@ This project is a python based price scraper curency converter which scraps book
 **Clone the Repository:**
 
     ```bash
-git clone https://github.com/graceobonyo/Price-Scraper-Currency-Converter.git
-cd Price-Sraper-Currency-Converter
+       git clone https://github.com/graceobonyo/Price-Scraper-Currency-Converter.git 
+       cd Price-Sraper-Currency-Converter
     ```
 
 2.  **Run the program:**
@@ -77,10 +77,15 @@ Contributions are what make the open-source community an excellent place to lear
 ## Project Structure
 
 text
+
 main.ipynb            # Main project information
+
 book_price_converted.csv  # Local database for storing book information including title,price and conversion satus and time(auto-generated)
+
 book_price_converter.json  # Local database for storing book information including title,price and conversion satus and time(auto-generated)
+
 README.md          # Project information
+
 
 
 ## License
