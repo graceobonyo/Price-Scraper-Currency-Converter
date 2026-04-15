@@ -30,7 +30,7 @@ This project is a python based price scraper curency converter which scraps book
 
     ```bash
 git clone https://github.com/graceobonyo/Price-Scraper-Currency-Converter.git
-cd guess-the-number
+cd Price-Sraper-Currency-Converter
     ```
 
 2.  **Run the program:**
