@@ -1,6 +1,6 @@
 # Price-Scraper-Currency-Converter
 
-This project is a python based ppprice scraper curency converter which scraps book data from a book website then converts the scraped currency GBP to KES.It then stores the scraped data information and diplayethe book information including the title,price in GBP and KES and conversion status and time.The data information is  saved as a csv and /or json file and the book price is visulaed against book title.
+This project is a python based price scraper curency converter which scraps book data from a book website then converts the scraped currency GBP to KES.It then stores the scraped data information and diplayethe book information including the title,price in GBP and KES and conversion status and time.The data information is  saved as a csv and /or json file and the book price is visulaed against book title.
 
 ## Features
  
